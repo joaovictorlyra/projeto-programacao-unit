@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8a1432e-6056-4486-a501-eabad707c33a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projeto-programacao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContaBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstudoDeCaso05/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstudoDeCaso05/EstudoDeCaso05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstudoDeCaso06/EstudoDeCaso06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstudoDeCaso06/Fruta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstudoDeCaso06/Inventario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="e8a1432e-6056-4486-a501-eabad707c33a" name="Changes" comment="Aula 28/08/2024">
+      <change afterPath="$PROJECT_DIR$/src/APSContaBancaria/ContaBancaria1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APSContaBancaria/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,26 +28,26 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2lHrDKxBVH4pVqpmYmy8jgEf2f3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.EstudoDeCaso06.executor": "Run",
-    "Application.desafio05.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.EstudoDeCaso06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.desafio05.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.EstudoDeCaso06">
     <configuration name="EstudoDeCaso06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EstudoDeCaso06.EstudoDeCaso06" />
@@ -100,6 +91,19 @@
       <option name="presentableId" value="Default" />
       <updated>1724847726278</updated>
     </task>
+    <task id="LOCAL-00001" summary="Aula 28/08/2024">
+      <option name="closed" value="true" />
+      <created>1724865540827</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724865540827</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aula 28/08/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 28/08/2024" />
   </component>
 </project>
